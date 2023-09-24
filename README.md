@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [amaar.netlify.app](amaar.netlify.app)
+- 👨‍💻 All of my projects are available at [amaar.netlify.app](https://amaar-hassnain.netlify.app/)
 
 - 💬 Ask me about **Frontend development ,React.js**
 
